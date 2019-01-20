@@ -1,0 +1,10 @@
+name: prod-YAML
+environment: production
+
+server:
+  port: 8080
+
+
+connection-request-timeout: 0
+connect-timeout: 100
+read-timeout: 100
